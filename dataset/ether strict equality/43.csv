@@ -1,0 +1,6 @@
+Solidity-File;Contract-Name;Function-Name;SLOC;Avg-Assignment;Avg-blank-lines;Avg-commas;Avg-comments;Avg-comparisons;Avg-Identifiers-Length;Avg-conditionals;Avg-indentation-length;Avg-keywords;Avg-line-length;Avg-loops;Avg-number-of-identifiers;Avg-numbers;Avg-operators;Avg-parenthesis;Avg-periods;Avg-spaces;Max-Identifiers-Length;Max-indentation;Max-keywords;Max-line-length;Max-number-of-identifiers;Max-numbers;Max-char;Max-words
+43.sol;Presale;();1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,0;2,0;33,0;0,0;0,0;0,0;0,0;4,0;0,0;8,0;0;4;2;33;0;0;2;0
+43.sol;Presale;init;4;0,25;0,0;0,0;0,0;0,0;7,0;0,0;5,0;0,25;16,0;0,0;0,5;0,0;0,0;1,0;0,0;6,0;10;8;1;28;2;0;6;1
+43.sol;Presale;deposit;15;0,26666666666666666;0,0;0,0;0,0;0,26666666666666666;5,615384615384615;0,13333333333333333;8,8;0,13333333333333333;26,6;0,0;0,8666666666666667;0,4;0,06666666666666667;0,9333333333333333;0,7333333333333333;10,266666666666667;10;12;2;54;13;6;29;6
+43.sol;Presale;close;7;0,0;0,0;0,0;0,0;0,2857142857142857;4,75;0,14285714285714285;6,857142857142857;0,14285714285714285;19,571428571428573;0,0;0,5714285714285714;0,0;0,0;1,4285714285714286;0,5714285714285714;7,571428571428571;9;12;1;46;4;0;7;2
+43.sol;Presale;refund;10;0,0;0,0;0,0;0,0;0,7;5,555555555555555;0,2;8,8;0,1;24,4;0,0;0,9;0,2;0,0;1,4;0,3;10,3;10;16;1;58;9;2;13;3

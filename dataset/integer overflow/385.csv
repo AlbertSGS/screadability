@@ -1,0 +1,10 @@
+Solidity-File;Contract-Name;Function-Name;SLOC;Avg-Assignment;Avg-blank-lines;Avg-commas;Avg-comments;Avg-comparisons;Avg-Identifiers-Length;Avg-conditionals;Avg-indentation-length;Avg-keywords;Avg-line-length;Avg-loops;Avg-number-of-identifiers;Avg-numbers;Avg-operators;Avg-parenthesis;Avg-periods;Avg-spaces;Max-Identifiers-Length;Max-indentation;Max-keywords;Max-line-length;Max-number-of-identifiers;Max-numbers;Max-char;Max-words
+385.sol;HelpingBlocksContract;();7;0,0;0,0;0,2857142857142857;0,0;0,14285714285714285;6,6;0,14285714285714285;5,714285714285714;0,2857142857142857;27,857142857142858;0,0;1,4285714285714286;0,5714285714285714;0,14285714285714285;1,7142857142857142;0,5714285714285714;7,428571428571429;14;8;2;42;10;4;14;4
+385.sol;HelpingBlocksContract;transfer;4;0,0;0,0;0,75;0,0;0,0;6,4;0,0;6,0;0,25;38,5;0,0;1,25;0,0;0,0;2,0;0,0;9,0;9;8;1;91;5;0;12;1
+385.sol;HelpingBlocksContract;_transfer;5;0,0;0,0;0,8;0,0;0,0;6,0;0,0;6,4;0,2;37,8;0,0;2,0;0,0;0,4;1,2;0,0;9,4;9;8;1;74;10;0;13;3
+385.sol;Ownable;transferOwnership;5;0,4;0,0;0,0;0,0;0,0;7,5;0,2;3,6;0,2;25,8;0,0;0,8;0,4;0,0;2,0;0,0;5,8;9;6;1;65;4;2;13;2
+385.sol;HelpingBlocksContract;setDescription;4;0,25;0,0;0,0;0,0;0,0;7,666666666666667;0,0;5,0;0,25;31,75;0,0;0,75;0,0;0,0;1,5;0,0;7,5;11;6;1;80;3;0;11;1
+385.sol;HelpingBlocksContract;safeWithdrawal;3;0,0;0,0;0,0;0,0;0,0;6,666666666666667;0,0;4,666666666666667;0,6666666666666666;34,666666666666664;0,0;1,0;0,0;0,0;2,0;0,3333333333333333;6,666666666666667;9;6;2;70;3;0;8;1
+385.sol;HelpingBlocksContract;disableDonation;4;0,25;0,0;0,0;0,0;0,0;11,5;0,0;5,0;0,25;30,5;0,0;0,5;0,0;0,0;1,5;0,0;7,25;14;6;1;71;2;0;10;1
+385.sol;Ownable;onlyOwner;4;0,0;0,0;0,0;0,0;0,5;4,0;0,0;3,0;0,0;16,5;0,0;1,0;0,0;0,0;1,5;0,25;4,0;7;4;0;33;4;0;7;1
+385.sol;HelpingBlocksContract;enableDonation;4;0,25;0,0;0,0;0,0;0,0;11,5;0,0;5,0;0,25;30,5;0,0;0,5;0,0;0,0;1,5;0,0;7,25;14;6;1;70;2;0;11;1

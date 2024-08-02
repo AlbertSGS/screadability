@@ -1,0 +1,6 @@
+Solidity-File;Contract-Name;Function-Name;SLOC;Avg-Assignment;Avg-blank-lines;Avg-commas;Avg-comments;Avg-comparisons;Avg-Identifiers-Length;Avg-conditionals;Avg-indentation-length;Avg-keywords;Avg-line-length;Avg-loops;Avg-number-of-identifiers;Avg-numbers;Avg-operators;Avg-parenthesis;Avg-periods;Avg-spaces;Max-Identifiers-Length;Max-indentation;Max-keywords;Max-line-length;Max-number-of-identifiers;Max-numbers;Max-char;Max-words
+43354.sol;UserWallet;();1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,0;2,0;34,0;0,0;0,0;0,0;0,0;4,0;0,0;7,0;0;4;2;34;0;0;3;0
+43354.sol;UserAuth;isAuth;8;0,0;0,0;0,0;0,0;0,5;3,75;0,25;8,0;0,25;26,625;0,0;0,5;0,0;0,0;2,0;0,0;10,5;5;12;2;61;4;0;16;2
+43354.sol;UserAuth;auth;4;0,0;0,0;0,25;0,0;0,0;4,25;0,0;6,0;0,0;22,75;0,0;1,0;0,0;0,25;1,5;0,25;6,75;7;8;0;57;4;0;8;1
+43354.sol;UserWallet;execute;28;0,10714285714285714;0,10714285714285714;0,75;0,0;0,0;6,0;0,0;9,666666666666666;0,07142857142857142;30,75;0,0;1,3571428571428572;0,17857142857142858;0,0;1,6428571428571428;0,0;10,464285714285714;14;20;2;104;38;5;56;6
+43354.sol;UserAuth;setOwner;5;0,4;0,0;0,2;0,0;0,0;7,714285714285714;0,0;6,4;0,2;36,6;0,0;1,4;0,4;0,2;2,0;0,0;8,6;11;8;1;62;7;2;19;3

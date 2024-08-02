@@ -1,0 +1,7 @@
+Solidity-File;Contract-Name;Function-Name;SLOC;Avg-Assignment;Avg-blank-lines;Avg-commas;Avg-comments;Avg-comparisons;Avg-Identifiers-Length;Avg-conditionals;Avg-indentation-length;Avg-keywords;Avg-line-length;Avg-loops;Avg-number-of-identifiers;Avg-numbers;Avg-operators;Avg-parenthesis;Avg-periods;Avg-spaces;Max-Identifiers-Length;Max-indentation;Max-keywords;Max-line-length;Max-number-of-identifiers;Max-numbers;Max-char;Max-words
+33425.sol;AdminInterface;();1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,0;2,0;23,0;0,0;0,0;0,0;0,0;4,0;0,0;4,0;0;4;2;23;0;0;2;0
+33425.sol;AdminInterface;Set;5;0,4;0,0;0,0;0,0;0,0;6,2;0,0;5,6;0,4;22,8;0,0;1,0;0,0;0,0;0,8;0,2;7,2;9;8;2;52;5;0;11;1
+33425.sol;AdminInterface;transfer;3;0,0;0,0;0,0;0,0;0,0;6,666666666666667;0,0;5,333333333333333;0,6666666666666666;33,666666666666664;0,0;1,0;0,0;0,0;2,0;0,6666666666666666;7,0;9;8;2;59;3;0;7;1
+33425.sol;AdminInterface;addOwner;11;0,0;0,09090909090909091;0,09090909090909091;0,0;0,09090909090909091;5,285714285714286;0,09090909090909091;7,5;0,18181818181818182;30,375;0,0;0,6363636363636364;0,0;0,0;1,6363636363636365;0,45454545454545453;9,272727272727273;9;12;2;86;7;0;17;2
+33425.sol;AdminInterface;onlyOwner;4;0,0;0,0;0,0;0,0;0,5;4,0;0,0;4,75;0,0;18,25;0,0;1,0;0,0;0,0;1,5;0,25;5,75;7;8;0;37;4;0;7;1
+33425.sol;AdminInterface;AdminInterface;3;0,3333333333333333;0,0;0,0;0,0;0,0;4,0;0,0;5,333333333333333;0,3333333333333333;20,666666666666668;0,0;0,6666666666666666;0,0;0,0;1,3333333333333333;0,3333333333333333;6,333333333333333;5;8;1;30;2;0;6;1

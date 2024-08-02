@@ -1,0 +1,924 @@
+type,file,contract,ground_truth
+block number dependency,0,BREBuy,1
+block number dependency,42,PoP,1
+block number dependency,57,ForeignBridgeErcToErc,1
+block number dependency,58,MiniMeToken,1
+block number dependency,58,AywakeToken,1
+block number dependency,103,EBLLToken,1
+block number dependency,106,SPMTToken,1
+block number dependency,112,ZeroGoldPOWMining,1
+block number dependency,129,DelayedClaimable,1
+block number dependency,135,HorseyToken,1
+block number dependency,136,HorseyToken,1
+block number dependency,137,HorseyToken,1
+block number dependency,138,DelayedClaimable,1
+block number dependency,164,BREBuy,1
+block number dependency,173,EBBToken,1
+block number dependency,196,DelayedClaimable,1
+block number dependency,215,HorseyToken,1
+block number dependency,216,HorseyToken,1
+block number dependency,217,HorseyToken,1
+block number dependency,220,DelayedClaimable,1
+block number dependency,238,DEJToken,1
+block number dependency,246,Pinakion,1
+block number dependency,246,BlockHashRNGFallback,1
+block number dependency,277,Random,1
+block number dependency,313,Ethnamed,1
+block number dependency,399,Saturn,1
+block number dependency,413,CryptoCongress,1
+block number dependency,413,StandardToken,1
+block number dependency,415,BlockHashRNGFallback,1
+block number dependency,415,Pinakion,1
+block number dependency,436,DelayedClaimable,1
+block number dependency,441,QCOToken,1
+block number dependency,584,ULCToken,1
+block number dependency,639,HorseyToken,1
+block number dependency,642,DelayedClaimable,1
+block number dependency,652,LighthouseLib,1
+block number dependency,652,RobotLiabilityLib,1
+block number dependency,654,HorseyToken,1
+block number dependency,655,HorseyToken,1
+block number dependency,661,DelayedClaimable,1
+block number dependency,672,Game,1
+block number dependency,677,BREBuy_ERC20,1
+block number dependency,681,ULChain,1
+block number dependency,705,DelayedClaimable,1
+block number dependency,710,HorseyToken,1
+block number dependency,712,HorseyToken,1
+block number dependency,713,HorseyToken,1
+block number dependency,749,Lockable,1
+block number dependency,753,RobotLiabilityLib,1
+block number dependency,753,LighthouseLib,1
+block number dependency,759,DelayedClaimable,1
+block number dependency,762,Crowdsale,1
+block number dependency,765,TravelHelperToken,1
+block number dependency,810,DelayedClaimable,1
+block number dependency,931,DelayedClaimable,1
+block number dependency,970,OATToken,1
+block number dependency,980,HKHCToken,1
+block number dependency,1017,Zlots,1
+block number dependency,1034,PoCGame,1
+block number dependency,1044,PoCGame,1
+block number dependency,1052,Zlots,1
+block number dependency,1056,Zlots,1
+block number dependency,1096,Zlots,1
+block number dependency,1101,Zlots,1
+block number dependency,1121,DelayedClaimable,1
+block number dependency,1149,Zethroll,1
+block number dependency,1165,DelayedClaimable,1
+block number dependency,1297,BREBuy,1
+block number dependency,1345,Zethroll,1
+block number dependency,1376,Win20ETH,1
+block number dependency,1406,EVTCTLToken,1
+block number dependency,1472,Zlots,1
+block number dependency,1482,DelayedClaimable,1
+block number dependency,1546,Zlots,1
+block number dependency,1567,GuessEth,1
+block number dependency,1673,Zlots,1
+block number dependency,1678,DelayedClaimable,1
+block number dependency,1698,EVTCToken,1
+block number dependency,1714,Zethroll,1
+block number dependency,1761,Zlots,1
+block number dependency,1791,DelayedClaimable,1
+block number dependency,1986,PoP,1
+block number dependency,2003,Zlots,1
+block number dependency,2110,GuessEth,1
+block number dependency,2295,WrapperLock,1
+block number dependency,2296,WrapperLockEth,1
+block number dependency,2584,Zethroll,1
+block number dependency,2587,Zethroll,1
+block number dependency,2589,Zethroll,1
+block number dependency,2593,Zethroll,1
+block number dependency,2619,UnityToken,1
+block number dependency,2632,AntiFakeLabelToken,1
+block number dependency,2633,Zethroll,1
+block number dependency,2638,Zethroll,1
+block number dependency,2644,POOHMO,1
+block number dependency,2658,Zethroll,1
+block number dependency,2670,TwentyDollars,1
+block number dependency,2734,DivMultisigHackable,1
+block number dependency,2805,AZExchange,1
+block number dependency,2825,KickTheCoin,1
+block number dependency,2963,IMDEXDexchange,1
+block number dependency,2977,LedToken,1
+block number dependency,2978,LedToken,1
+block number dependency,2990,MultiMerkleMine,1
+block number dependency,2990,MerkleMine,1
+block number dependency,2991,PlayCoinKey,1
+block number dependency,3060,TokenLock,1
+block number dependency,3062,TokenLock,1
+block number dependency,3105,ShintakuToken,1
+block number dependency,3123,IcoLib,1
+block number dependency,3132,PresalePool,1
+block number dependency,3201,AuctionPack,1
+block number dependency,3240,NokuCustomERC20,1
+block number dependency,3284,MiniMeToken,1
+block number dependency,3290,MiniMeToken,1
+block number dependency,3291,MiniMeToken,1
+block number dependency,3311,nDEX,1
+block number dependency,3337,PolarisDEX,1
+block number dependency,3386,ContractForDifference,1
+block number dependency,3574,BitDex,1
+block number dependency,3689,EthertoteToken,1
+block number dependency,3704,KickTheCoin,1
+block number dependency,3708,WithdrawFromKickTheCoin,1
+block number dependency,3711,KickTheCoin,1
+block number dependency,3828,LavaWallet,1
+block number dependency,3955,DelayedClaimable,1
+block number dependency,3970,XinXianToken,1
+block number dependency,3971,IcoLib,1
+dangerous delegatecall,510,AbstractStorage,1
+dangerous delegatecall,2004,Proxy,1
+dangerous delegatecall,3721,Proxy,1
+dangerous delegatecall,3721,DutchExchangeProxy,1
+dangerous delegatecall,5321,DutchExchangeProxy,1
+dangerous delegatecall,5321,Proxy,1
+dangerous delegatecall,5349,Proxy,1
+dangerous delegatecall,5349,DutchExchangeProxy,1
+dangerous delegatecall,5901,Proxy,1
+dangerous delegatecall,5901,DutchExchangeProxy,1
+dangerous delegatecall,6043,VersionedToken,1
+dangerous delegatecall,6043,SPFCToken,1
+dangerous delegatecall,7129,DutchExchangeProxy,1
+dangerous delegatecall,7129,Proxy,1
+dangerous delegatecall,7493,Proxy,1
+dangerous delegatecall,7494,Proxy,1
+dangerous delegatecall,7494,DutchExchangeProxy,1
+dangerous delegatecall,7628,Registry,1
+dangerous delegatecall,11089,Proxy,1
+dangerous delegatecall,11089,DutchExchangeProxy,1
+dangerous delegatecall,12692,main,1
+dangerous delegatecall,13000,EllipseMarketMaker,1
+dangerous delegatecall,20625,VersionedToken,1
+dangerous delegatecall,20625,ELTToken,1
+dangerous delegatecall,20740,Proxy,1
+dangerous delegatecall,20740,KnowledgeProxy,1
+dangerous delegatecall,21312,Proxy,1
+dangerous delegatecall,21312,DutchExchangeProxy,1
+dangerous delegatecall,21313,Proxy,1
+dangerous delegatecall,21313,DutchExchangeProxy,1
+dangerous delegatecall,21314,DutchExchangeProxy,1
+dangerous delegatecall,21314,Proxy,1
+dangerous delegatecall,22229,MultiSigStub,1
+dangerous delegatecall,22344,Proxy,1
+dangerous delegatecall,22344,DutchExchangeProxy,1
+dangerous delegatecall,22345,Proxy,1
+dangerous delegatecall,22345,DutchExchangeProxy,1
+dangerous delegatecall,22943,Ohni,1
+dangerous delegatecall,23604,token,1
+dangerous delegatecall,25217,Standard223Receiver,1
+dangerous delegatecall,25217,EllipseMarketMaker,1
+dangerous delegatecall,25219,Standard223Receiver,1
+dangerous delegatecall,26431,Proxy,1
+dangerous delegatecall,26431,DutchExchangeProxy,1
+dangerous delegatecall,27767,RiskSharingToken,1
+dangerous delegatecall,29219,SimpleDispatcher,1
+dangerous delegatecall,29219,PersonalCrowdsaleProxyDispatcher,1
+dangerous delegatecall,29717,UserWallet,1
+dangerous delegatecall,29999,Proxy,1
+dangerous delegatecall,29999,DutchExchangeProxy,1
+dangerous delegatecall,30357,testBank,1
+dangerous delegatecall,30358,debugContract,1
+dangerous delegatecall,30679,MultiSigStub,1
+dangerous delegatecall,30692,firstTest,1
+dangerous delegatecall,33425,AdminInterface,1
+dangerous delegatecall,33567,Proxy,1
+dangerous delegatecall,33567,DutchExchangeProxy,1
+dangerous delegatecall,33727,Dispatcher,1
+dangerous delegatecall,33741,EDProxy,1
+dangerous delegatecall,33799,caller,1
+dangerous delegatecall,34410,Router,1
+dangerous delegatecall,34483,Conductor,1
+dangerous delegatecall,38293,Proxy,1
+dangerous delegatecall,38293,DutchExchangeProxy,1
+dangerous delegatecall,38370,Proxy,1
+dangerous delegatecall,38370,DutchExchangeProxy,1
+dangerous delegatecall,43210,Proxy,1
+dangerous delegatecall,43210,DutchExchangeProxy,1
+dangerous delegatecall,44311,DelegateCaller,1
+dangerous delegatecall,44417,InstaAccount,1
+dangerous delegatecall,44418,InstaAccountV2,1
+dangerous delegatecall,47235,Proxy,1
+dangerous delegatecall,47235,DutchExchangeProxy,1
+dangerous delegatecall,47236,Proxy,1
+dangerous delegatecall,47236,DutchExchangeProxy,1
+ether frozen,2004,Proxy,1
+ether frozen,2248,Dispatcher,1
+ether frozen,3521,CodexRecordProxy,1
+ether frozen,3721,DutchExchangeProxy,1
+ether frozen,3721,Proxy,1
+ether frozen,3972,Ico,1
+ether frozen,4617,Proxy,1
+ether frozen,5321,Proxy,1
+ether frozen,5321,DutchExchangeProxy,1
+ether frozen,5349,DutchExchangeProxy,1
+ether frozen,5349,Proxy,1
+ether frozen,5380,ArtMuseum,1
+ether frozen,5901,DutchExchangeProxy,1
+ether frozen,5901,Proxy,1
+ether frozen,6043,SPFCToken,1
+ether frozen,6043,VersionedToken,1
+ether frozen,7003,UserWallet,1
+ether frozen,7129,Proxy,1
+ether frozen,7129,DutchExchangeProxy,1
+ether frozen,7493,Proxy,1
+ether frozen,7494,DutchExchangeProxy,1
+ether frozen,7494,Proxy,1
+ether frozen,7628,Registry,1
+ether frozen,8680,DSProxy,1
+ether frozen,10708,Proxy,1
+ether frozen,10726,MultiSig,1
+ether frozen,11089,DutchExchangeProxy,1
+ether frozen,11089,Proxy,1
+ether frozen,11772,UserWallet,1
+ether frozen,12692,main,1
+ether frozen,13000,EllipseMarketMaker,1
+ether frozen,13000,Standard223Receiver,1
+ether frozen,14108,DelegateProxy,1
+ether frozen,20625,VersionedToken,1
+ether frozen,20625,ELTToken,1
+ether frozen,21312,DutchExchangeProxy,1
+ether frozen,21312,Proxy,1
+ether frozen,21313,DutchExchangeProxy,1
+ether frozen,21313,Proxy,1
+ether frozen,21314,DutchExchangeProxy,1
+ether frozen,21314,Proxy,1
+ether frozen,22229,MultiSigStub,1
+ether frozen,22344,DutchExchangeProxy,1
+ether frozen,22344,Proxy,1
+ether frozen,22345,DutchExchangeProxy,1
+ether frozen,22345,Proxy,1
+ether frozen,23089,DelegateProxy,1
+ether frozen,23089,WyvernDAOProxy,1
+ether frozen,25219,Standard223Receiver,1
+ether frozen,25335,DSProxy,1
+ether frozen,25456,Router,1
+ether frozen,26284,DelegateProxy,1
+ether frozen,26431,Proxy,1
+ether frozen,26431,DutchExchangeProxy,1
+ether frozen,27767,RiskSharingToken,1
+ether frozen,29219,PersonalCrowdsaleProxyDispatcher,1
+ether frozen,29219,SimpleDispatcher,1
+ether frozen,29717,UserWallet,1
+ether frozen,29842,DelegateProxy,1
+ether frozen,29999,Proxy,1
+ether frozen,29999,DutchExchangeProxy,1
+ether frozen,30740,UserWallet,1
+ether frozen,33567,Proxy,1
+ether frozen,33567,DutchExchangeProxy,1
+ether frozen,33727,Dispatcher,1
+ether frozen,33741,EDProxy,1
+ether frozen,33799,caller,1
+ether frozen,38293,DutchExchangeProxy,1
+ether frozen,38293,Proxy,1
+ether frozen,38370,DutchExchangeProxy,1
+ether frozen,38370,Proxy,1
+ether frozen,43085,Helper_ModifiableStorage,1
+ether frozen,43126,Lib_ResolvedDelegateProxy,1
+ether frozen,43189,ProxyReceiver,1
+ether frozen,43210,DutchExchangeProxy,1
+ether frozen,43210,Proxy,1
+ether frozen,43311,Proxy,1
+ether frozen,43354,UserWallet,1
+ether frozen,43367,UserWallet,1
+ether frozen,44311,DelegateCaller,1
+ether frozen,47235,DutchExchangeProxy,1
+ether frozen,47235,Proxy,1
+ether frozen,47236,DutchExchangeProxy,1
+ether frozen,47236,Proxy,1
+ether strict equality,27,ROSCtoken,1
+ether strict equality,28,MyShareToken,1
+ether strict equality,32,ROSCtoken,1
+ether strict equality,43,Presale,1
+ether strict equality,156,MyToken,1
+ether strict equality,186,MyAdvancedToken,1
+ether strict equality,205,ROSCcoin,1
+ether strict equality,290,ROSCtoken,1
+ether strict equality,332,ROSCtoken,1
+ether strict equality,377,ROSCtoken,1
+ether strict equality,378,Presale,1
+ether strict equality,388,WTAGameBook,1
+ether strict equality,409,WTAGameBook,1
+ether strict equality,412,Presale,1
+ether strict equality,417,WTAGameBook,1
+ether strict equality,426,WTAGameBook,1
+ether strict equality,477,ROSCtoken,1
+ether strict equality,576,ROSCtoken,1
+ether strict equality,604,ROSCtoken,1
+ether strict equality,608,CoinLoanCS,1
+ether strict equality,623,ROSCtoken,1
+ether strict equality,640,ROSCtoken,1
+ether strict equality,663,ROSCtoken,1
+ether strict equality,703,ROSCtoken,1
+ether strict equality,743,ROSCtoken,1
+ether strict equality,777,ROSCtoken,1
+ether strict equality,780,ROSCtoken,1
+ether strict equality,784,ROSCtoken,1
+ether strict equality,787,ROSCtoken,1
+ether strict equality,806,ROSCtoken,1
+ether strict equality,852,MinterStorePoolCrowdsale,1
+ether strict equality,853,MinterStorePoolCrowdsale,1
+ether strict equality,868,MinterStorePoolCrowdsale,1
+ether strict equality,896,MinterStorePoolCrowdsale,1
+ether strict equality,897,MinterStorePoolCrowdsale,1
+ether strict equality,953,MinterStorePoolCrowdsale,1
+ether strict equality,989,MinterStorePoolCrowdsale,1
+ether strict equality,1279,PlayerBook,1
+ether strict equality,1281,PlayerBook,1
+ether strict equality,1295,PlayerBook,1
+ether strict equality,1346,PlayerBook,1
+ether strict equality,1360,PlayerBook,1
+ether strict equality,1365,SafeDestructible,1
+ether strict equality,1365,MerchantWallet,1
+ether strict equality,1382,Bounty0xEscrow,1
+ether strict equality,1394,PlayerBook,1
+ether strict equality,1429,PlayerBook,1
+ether strict equality,1595,MyAdvancedToken,1
+ether strict equality,1603,MyAdvancedToken,1
+ether strict equality,1618,MyAdvancedToken,1
+integer overflow,9,WWW,1
+integer overflow,33,AbcdEfg,1
+integer overflow,34,GlobalGoldCashToken,1
+integer overflow,35,BEECASHBACKHOME,1
+integer overflow,117,ExShellToken,1
+integer overflow,118,ExShellStock,1
+integer overflow,126,TestCoin,1
+integer overflow,130,ExShellStock,1
+integer overflow,143,ExShellStock,1
+integer overflow,169,ExShellStock,1
+integer overflow,241,ExShellStock,1
+integer overflow,258,CRYPTOHEDGECoin,1
+integer overflow,339,ExShellStock,1
+integer overflow,364,ATM,1
+integer overflow,370,Purox,1
+integer overflow,372,MntToken,1
+integer overflow,375,ExShellStock,1
+integer overflow,385,HelpingBlocksContract,1
+integer overflow,394,ExShellStock,1
+integer overflow,465,ExShellStock,1
+integer overflow,520,HeavenlyHoundCoin,1
+integer overflow,544,HNContract,1
+integer overflow,566,CYFToken,1
+integer overflow,607,ExShellStock,1
+integer overflow,633,StandardToken,1
+integer overflow,633,NABC,1
+integer overflow,640,ExShellStock,1
+integer overflow,655,ExShellStock,1
+integer overflow,688,QPay,1
+integer overflow,847,ExShellStock,1
+integer overflow,944,VXR,1
+integer overflow,977,WBET,1
+integer overflow,980,ExShellStock,1
+integer overflow,1675,ExShellStock,1
+integer overflow,1690,ExShellStock,1
+integer overflow,1711,ExShellStock,1
+integer overflow,1720,ExShellStock,1
+integer overflow,1735,ExShellStock,1
+integer overflow,1808,ZXCToken,1
+integer overflow,1822,CoinByInsomnia,1
+integer overflow,1896,SAFCOIN,1
+integer overflow,1955,BBBToken,1
+reentrancy,60,MultiBuyer,1
+reentrancy,80,MultiBuyer,1
+reentrancy,81,MultiBuyer,1
+reentrancy,92,MultiBuyer,1
+reentrancy,95,MultiBuyer,1
+reentrancy,165,MultiBuyer,1
+reentrancy,168,MultiBuyer,1
+reentrancy,180,MultiBuyer,1
+reentrancy,187,MultiBuyer,1
+reentrancy,241,MultiBuyer,1
+reentrancy,245,MultiBuyer,1
+reentrancy,268,MultiBuyer,1
+reentrancy,332,MultiBuyer,1
+reentrancy,336,MultiBuyer,1
+reentrancy,420,MultiBuyer,1
+reentrancy,425,MultiBuyer,1
+reentrancy,470,MultiBuyer,1
+reentrancy,475,MultiBuyer,1
+reentrancy,520,MultiBuyer,1
+reentrancy,523,MultiBuyer,1
+reentrancy,601,MultiBuyer,1
+reentrancy,609,MultiBuyer,1
+reentrancy,668,MultiBuyer,1
+reentrancy,670,MultiBuyer,1
+reentrancy,678,MultiBuyer,1
+reentrancy,717,MultiBuyer,1
+reentrancy,721,MultiBuyer,1
+reentrancy,754,MultiBuyer,1
+reentrancy,760,MultiBuyer,1
+reentrancy,798,MultiBuyer,1
+reentrancy,801,MultiBuyer,1
+reentrancy,870,MultiBuyer,1
+reentrancy,871,MultiBuyer,1
+reentrancy,930,MultiBuyer,1
+reentrancy,934,MultiBuyer,1
+reentrancy,989,MultiBuyer,1
+reentrancy,990,MultiBuyer,1
+reentrancy,1011,MultiBuyer,1
+reentrancy,1021,MultiBuyer,1
+reentrancy,1023,MultiBuyer,1
+reentrancy,1030,MultiBuyer,1
+reentrancy,1076,MultiBuyer,1
+reentrancy,1078,MultiBuyer,1
+reentrancy,1155,ZethrBankroll,1
+reentrancy,1421,MultiBuyer,1
+reentrancy,1423,MultiBuyer,1
+reentrancy,1427,MultiBuyer,1
+reentrancy,1489,MultiBuyer,1
+reentrancy,1491,MultiBuyer,1
+reentrancy,1498,MultiBuyer,1
+reentrancy,1600,MultiBuyer,1
+reentrancy,1611,MultiBuyer,1
+reentrancy,1620,MultiBuyer,1
+reentrancy,1634,MultiBuyer,1
+reentrancy,20780,MultiBuyer,1
+reentrancy,20810,MultiBuyer,1
+reentrancy,20815,MultiBuyer,1
+reentrancy,20821,MultiBuyer,1
+reentrancy,21071,MultiBuyer,1
+reentrancy,21080,MultiBuyer,1
+reentrancy,21082,MultiBuyer,1
+reentrancy,21084,MultiBuyer,1
+reentrancy,21390,Accrual_account,1
+reentrancy,21391,MultiSigWalletWithDailyLimit,1
+reentrancy,21391,MultiSigWallet,1
+reentrancy,21700,MultiBuyer,1
+reentrancy,21703,MultiBuyer,1
+reentrancy,21741,MultiBuyer,1
+reentrancy,21750,MultiBuyer,1
+reentrancy,21755,COIN_BOX,1
+reentrancy,22074,SIMPLE_PIGGY_BANK,1
+reentrancy,22478,MultiBuyer,1
+reentrancy,22480,MultiBuyer,1
+reentrancy,22485,MultiBuyer,1
+reentrancy,22500,MultiBuyer,1
+reentrancy,22810,MultiBuyer,1
+reentrancy,22813,MultiBuyer,1
+reentrancy,22823,MultiBuyer,1
+reentrancy,22854,MultiBuyer,1
+reentrancy,24456,ETH_VAULT,1
+reentrancy,24501,MultiBuyer,1
+reentrancy,24507,MultiBuyer,1
+reentrancy,24517,MultiBuyer,1
+reentrancy,24520,MultiBuyer,1
+reentrancy,31620,MultiBuyer,1
+reentrancy,31624,MultiBuyer,1
+reentrancy,31627,MultiBuyer,1
+reentrancy,31632,MultiBuyer,1
+reentrancy,31890,MultiBuyer,1
+reentrancy,31893,MultiBuyer,1
+reentrancy,31895,MultiBuyer,1
+reentrancy,31900,MultiBuyer,1
+reentrancy,32090,MultiBuyer,1
+reentrancy,32091,MultiBuyer,1
+reentrancy,32095,MultiBuyer,1
+reentrancy,32100,MultiBuyer,1
+reentrancy,32470,MultiBuyer,1
+reentrancy,32474,MultiBuyer,1
+reentrancy,32480,MultiBuyer,1
+reentrancy,32481,MultiBuyer,1
+reentrancy,32700,MultiBuyer,1
+reentrancy,32701,MultiBuyer,1
+reentrancy,32710,MultiBuyer,1
+reentrancy,32715,MultiBuyer,1
+reentrancy,33907,MultiBuyer,1
+reentrancy,33910,MultiBuyer,1
+reentrancy,33912,MultiBuyer,1
+reentrancy,33991,MultiBuyer,1
+reentrancy,33995,MultiBuyer,1
+reentrancy,33998,MultiBuyer,1
+reentrancy,34000,MultiBuyer,1
+reentrancy,34090,MultiBuyer,1
+reentrancy,34092,MultiBuyer,1
+reentrancy,34095,MultiBuyer,1
+reentrancy,34098,MultiBuyer,1
+reentrancy,34328,MultiBuyer,1
+reentrancy,34330,MultiBuyer,1
+reentrancy,34331,MultiBuyer,1
+reentrancy,34334,MultiBuyer,1
+timestamp dependency,15,NXX,1
+timestamp dependency,124,TTPresale,1
+timestamp dependency,176,IcoRocketFuel,1
+timestamp dependency,188,Duang8,1
+timestamp dependency,237,braggerContract,1
+timestamp dependency,292,CrowdsaleExt,1
+timestamp dependency,295,CrowdsaleExt,1
+timestamp dependency,347,CrowdsaleWPTByRounds,1
+timestamp dependency,361,FreezableMintableToken,1
+timestamp dependency,361,FreezableToken,1
+timestamp dependency,399,Saturn,1
+timestamp dependency,419,SnooKarma,1
+timestamp dependency,428,F3DPLUS,1
+timestamp dependency,496,TokenSale,1
+timestamp dependency,518,SCardLong,1
+timestamp dependency,578,ERC20Like,1
+timestamp dependency,613,SnooKarma,1
+timestamp dependency,649,DVPlock,1
+timestamp dependency,665,TwoYearDreamTokensVesting,1
+timestamp dependency,738,Token,1
+timestamp dependency,739,Crowdsale,1
+timestamp dependency,837,Controller,1
+timestamp dependency,883,RakuRakuEth,1
+timestamp dependency,1051,LimitCollectCoin,1
+timestamp dependency,1182,BitSongCrowdsale,1
+timestamp dependency,1256,Betting,1
+timestamp dependency,1318,WorkIt,1
+timestamp dependency,1667,JobsBounty,1
+timestamp dependency,1671,TokenSale,1
+timestamp dependency,1704,WinnerWinner,1
+timestamp dependency,1704,ExternalView,1
+timestamp dependency,1826,JobsBounty,1
+timestamp dependency,2315,ETHERlemon,1
+timestamp dependency,2389,ERC20Like,1
+timestamp dependency,2391,FsTKColdWallet,1
+timestamp dependency,2641,CrowdsaleExt,1
+timestamp dependency,2641,UpgradeableToken,1
+timestamp dependency,2646,CrowdsaleExt,1
+timestamp dependency,2688,F3d,1
+timestamp dependency,2711,ExhibationLinkingCoin,1
+timestamp dependency,2736,TimedStateMachine,1
+timestamp dependency,2736,DisbursementHandler,1
+timestamp dependency,2797,TimedCrowdsale,1
+timestamp dependency,2814,TokenSale,1
+timestamp dependency,2861,TokenVesting,1
+timestamp dependency,2948,BGAudit,1
+timestamp dependency,3100,CardsRaffle,1
+timestamp dependency,3125,NekoToken,1
+timestamp dependency,3185,StarmidFreezeTokens,1
+timestamp dependency,3240,TokenVesting,1
+timestamp dependency,3240,TokenTimelock,1
+timestamp dependency,3271,hodlEthereum,1
+timestamp dependency,6053,TimedCrowdsale,1
+timestamp dependency,6054,TimedCrowdsale,1
+timestamp dependency,6059,TimedCrowdsale,1
+timestamp dependency,6065,TokenTimelock,1
+timestamp dependency,6065,TokenVesting,1
+timestamp dependency,6149,JadeCoin,1
+timestamp dependency,6272,JadeCoin,1
+timestamp dependency,6297,TimedCrowdsale,1
+timestamp dependency,6297,JcnxxxCrowdsale,1
+timestamp dependency,6322,TokenTimelock,1
+timestamp dependency,6348,DutchAuction,1
+timestamp dependency,6369,LemoCoin,1
+timestamp dependency,6370,AMTTimelockedToken,1
+timestamp dependency,6396,SparksterToken,1
+timestamp dependency,6403,CrowdsaleExt,1
+timestamp dependency,6404,CrowdsaleExt,1
+timestamp dependency,6454,CanonicalPriceFeed,1
+timestamp dependency,6454,Competition,1
+timestamp dependency,6454,Fund,1
+timestamp dependency,6472,SparksterToken,1
+timestamp dependency,6534,XTVToken,1
+timestamp dependency,6578,CryptualProjectToken,1
+timestamp dependency,6586,TokenTimelockController,1
+timestamp dependency,6592,SparksterToken,1
+timestamp dependency,6596,FreezableToken,1
+timestamp dependency,6604,TimedCrowdsale,1
+timestamp dependency,6604,VreoTokenSale,1
+timestamp dependency,6663,TokenTimelockController,1
+timestamp dependency,6747,CrowdsaleBase,1
+timestamp dependency,6753,CrowdsaleBase,1
+timestamp dependency,6798,CrowdsaleBase,1
+timestamp dependency,6806,CrowdsaleBase,1
+timestamp dependency,6811,XTVToken,1
+timestamp dependency,6822,Lockable,1
+timestamp dependency,6833,MOEToken,1
+timestamp dependency,6844,XTVToken,1
+timestamp dependency,6846,FoMo3Dlong,1
+timestamp dependency,6915,TimedCrowdsale,1
+timestamp dependency,6933,AnythingAppTokenPreSale,1
+timestamp dependency,7012,TokenVesting,1
+timestamp dependency,7044,BaseICO,1
+timestamp dependency,7044,IonChainICO,1
+timestamp dependency,7046,Crowdsale,1
+timestamp dependency,7046,TokenVesting,1
+timestamp dependency,7046,GambioVesting,1
+timestamp dependency,7046,GambioCrowdsale,1
+timestamp dependency,7086,TokenTimelockController,1
+timestamp dependency,7134,FENIX,1
+timestamp dependency,7214,OperatorStaking,1
+timestamp dependency,7214,Fund,1
+timestamp dependency,7334,TimedCrowdsale,1
+timestamp dependency,7338,EtheremonRankBattle,1
+timestamp dependency,7419,SponsoredItemGooRaffle,1
+timestamp dependency,7440,FreezableToken,1
+timestamp dependency,7441,Crowdsale,1
+timestamp dependency,7441,MainCrowdsale,1
+timestamp dependency,7441,TemplateCrowdsale,1
+timestamp dependency,7464,TimedCrowdsale,1
+timestamp dependency,7464,GrapevineCrowdsale,1
+timestamp dependency,7466,TokenTimelockController,1
+timestamp dependency,7511,R1Exchange,1
+timestamp dependency,7512,CrowdsaleExt,1
+timestamp dependency,7515,CrowdsaleExt,1
+timestamp dependency,7519,BSPMintable,1
+timestamp dependency,7521,BSPVesting,1
+timestamp dependency,7570,GStarCrowdsale,1
+timestamp dependency,7627,NanoLoanEngine,1
+timestamp dependency,7724,CTCLock,1
+timestamp dependency,7736,CTCVesting,1
+timestamp dependency,7753,BVesting,1
+timestamp dependency,7775,TokenVesting,1
+timestamp dependency,7803,CareerChainPrivateSale,1
+timestamp dependency,7803,TimedCrowdsale,1
+timestamp dependency,8025,ESSENTIA_PE,1
+timestamp dependency,8099,tipbot,1
+timestamp dependency,8233,CrowdsaleExt,1
+timestamp dependency,8254,StakeDice,1
+timestamp dependency,8305,CrowdSale,1
+timestamp dependency,8305,GigToken,1
+timestamp dependency,8306,CrowdSale,1
+timestamp dependency,8314,Vault,1
+timestamp dependency,8320,ESSENTIA_PE,1
+timestamp dependency,8436,ESSENTIA_PE,1
+timestamp dependency,8470,StakeDice,1
+timestamp dependency,8505,TokenVesting,1
+timestamp dependency,8555,MainToken,1
+timestamp dependency,8555,FreezableMintableToken,1
+timestamp dependency,8555,FreezableToken,1
+timestamp dependency,8556,TemplateCrowdsale,1
+timestamp dependency,8556,FreezableToken,1
+timestamp dependency,8556,Crowdsale,1
+timestamp dependency,8596,CrowdsaleExt,1
+timestamp dependency,8606,YunMint,1
+timestamp dependency,8612,TokenVesting,1
+timestamp dependency,8614,CoinSparrow,1
+timestamp dependency,8615,TokenVesting,1
+timestamp dependency,8636,VariableRateTokenVesting,1
+timestamp dependency,8636,TokenVesting,1
+timestamp dependency,8647,StreamityEscrow,1
+timestamp dependency,8750,LemurTokenSale,1
+timestamp dependency,8766,ESSENTIA_PE,1
+timestamp dependency,8826,TokenOffering,1
+timestamp dependency,8851,mameCoin,1
+timestamp dependency,8926,DreamTeamToken,1
+timestamp dependency,8939,StreamityEscrow,1
+timestamp dependency,9208,Crowdsale,1
+timestamp dependency,9210,Crowdsale,1
+timestamp dependency,9221,EtherBet,1
+timestamp dependency,9224,TokenTimelock,1
+timestamp dependency,9230,Tokenlock,1
+timestamp dependency,9242,EthTeamContract,1
+timestamp dependency,9300,EoptCrowdsale,1
+timestamp dependency,9300,TimedCrowdsale,1
+timestamp dependency,9309,CrowdsaleExt,1
+timestamp dependency,9310,CrowdsaleExt,1
+timestamp dependency,9322,Cryphos,1
+timestamp dependency,9329,FreezableToken,1
+timestamp dependency,9333,CrowdsaleExt,1
+timestamp dependency,9334,CrowdsaleExt,1
+timestamp dependency,9358,SecurityController,1
+timestamp dependency,9359,SecurityController,1
+timestamp dependency,9378,PGOMonthlyPresaleVault,1
+timestamp dependency,9379,GotCrowdSale,1
+timestamp dependency,9379,PGOMonthlyPresaleVault,1
+timestamp dependency,9379,PGOMonthlyInternalVault,1
+timestamp dependency,9379,PGOVault,1
+timestamp dependency,9474,WaltonTokenLocker,1
+timestamp dependency,9476,WaltonTokenLocker,1
+timestamp dependency,9499,WaltonTokenLocker,1
+timestamp dependency,9500,WaltonTokenLocker,1
+timestamp dependency,9502,FreezableToken,1
+timestamp dependency,9505,WaltonTokenLocker,1
+timestamp dependency,9521,WaltonTokenLocker,1
+timestamp dependency,9531,CryptualProjectToken,1
+timestamp dependency,9560,dappVolumeAd,1
+timestamp dependency,9654,SimpleBet,1
+timestamp dependency,9759,FreezableToken,1
+timestamp dependency,9779,CrowdsaleExt,1
+timestamp dependency,9780,CrowdsaleExt,1
+timestamp dependency,9802,CrowdsaleExt,1
+timestamp dependency,9803,CrowdsaleExt,1
+timestamp dependency,9805,CrowdsaleExt,1
+timestamp dependency,9806,CrowdsaleExt,1
+timestamp dependency,9820,CrowdsaleRC,1
+timestamp dependency,9830,SpaceWar,1
+timestamp dependency,9843,Frozenable,1
+timestamp dependency,9843,Releaseable,1
+timestamp dependency,9850,PLCRVoting,1
+timestamp dependency,9850,Parameterizer,1
+timestamp dependency,9851,PLCRVoting,1
+timestamp dependency,9851,Parameterizer,1
+timestamp dependency,9858,CrowdsaleExt,1
+timestamp dependency,9859,CrowdsaleExt,1
+timestamp dependency,9889,SecurityController,1
+timestamp dependency,9890,CrowdsaleExt,1
+timestamp dependency,9892,CrowdsaleExt,1
+timestamp dependency,9918,GENEOSSale,1
+timestamp dependency,9978,EthTeamContract,1
+timestamp dependency,9987,DQCoin,1
+timestamp dependency,9994,BaseGameLogic,1
+timestamp dependency,9998,EthTeamContract,1
+timestamp dependency,10022,CrowdsaleExt,1
+timestamp dependency,10023,CrowdsaleExt,1
+timestamp dependency,10024,CrowdsaleExt,1
+timestamp dependency,10025,CrowdsaleExt,1
+timestamp dependency,10129,KYCPresale,1
+timestamp dependency,10129,CrowdsaleBase,1
+timestamp dependency,10131,ICO,1
+timestamp dependency,10131,Tokens,1
+timestamp dependency,10133,Tokens,1
+timestamp dependency,10146,KOIOSTokenSale,1
+timestamp dependency,10146,KOIOSTokenPreSale,1
+timestamp dependency,10159,XPAAssets,1
+timestamp dependency,10186,FreezableToken,1
+timestamp dependency,10189,TokenVesting,1
+timestamp dependency,10189,TokenTimelock,1
+timestamp dependency,10250,CrowdsaleExt,1
+timestamp dependency,10253,CrowdsaleExt,1
+timestamp dependency,10369,MuskTokenVault,1
+timestamp dependency,10431,EthTeamContract,1
+timestamp dependency,10547,ATTRToken,1
+timestamp dependency,10551,CrowdsaleExt,1
+timestamp dependency,10552,CrowdsaleExt,1
+timestamp dependency,10559,TokenTimelock,1
+timestamp dependency,10559,Crowdsale,1
+timestamp dependency,10560,TokenTimelock,1
+timestamp dependency,10560,Crowdsale,1
+timestamp dependency,10736,LescovexERC20,1
+timestamp dependency,10755,FreezableToken,1
+timestamp dependency,10755,Crowdsale,1
+timestamp dependency,10758,FreezableToken,1
+timestamp dependency,10763,Frozenable,1
+timestamp dependency,10798,TokenTimelock,1
+timestamp dependency,10803,AnythingAppTokenPreSale,1
+timestamp dependency,10807,CrowdsaleExt,1
+timestamp dependency,10808,CrowdsaleExt,1
+timestamp dependency,10826,AnythingAppTokenPreSale,1
+timestamp dependency,10833,AnythingAppTokenPreSale,1
+timestamp dependency,10855,TokenLock,1
+timestamp dependency,10915,DiceRoll,1
+timestamp dependency,10931,CrowdsaleBase,1
+timestamp dependency,11021,PAIStandardToken,1
+timestamp dependency,11063,TimedCrowdsale,1
+timestamp dependency,11064,ANSAToken,1
+timestamp dependency,11069,Redeem,1
+timestamp dependency,11069,Deposit,1
+timestamp dependency,11182,CrowdsaleExt,1
+timestamp dependency,11183,FractionalERC20Ext,1
+timestamp dependency,11190,TimedCrowdsale,1
+timestamp dependency,11191,DiceForSlice,1
+timestamp dependency,11205,TimedCrowdsale,1
+timestamp dependency,11207,ANDToken,1
+timestamp dependency,11223,MCoinDistribution,1
+timestamp dependency,11236,EDiamondToken,1
+timestamp dependency,11237,T2TCrowdsale,1
+timestamp dependency,11237,TimedCrowdsale,1
+timestamp dependency,11243,EmontFrenzy,1
+timestamp dependency,11257,TTGOracle,1
+timestamp dependency,11323,TUINETWORK,1
+timestamp dependency,11328,BW,1
+timestamp dependency,11328,BWService,1
+timestamp dependency,11329,BWService,1
+timestamp dependency,11330,BWService,1
+timestamp dependency,11339,CrowdsaleExt,1
+timestamp dependency,11340,CrowdsaleExt,1
+timestamp dependency,11373,TimedCrowdsale,1
+timestamp dependency,11374,DAVToken,1
+timestamp dependency,11407,Validation,1
+timestamp dependency,11415,CrowdsaleExt,1
+timestamp dependency,11416,CrowdsaleExt,1
+timestamp dependency,11418,CrowdsaleExt,1
+timestamp dependency,11419,CrowdsaleExt,1
+timestamp dependency,11447,TimedCrowdsale,1
+timestamp dependency,11448,SuperCountriesEth,1
+timestamp dependency,11457,BCVTokenVault,1
+timestamp dependency,11526,Escrow,1
+timestamp dependency,11566,Variation,1
+timestamp dependency,11568,SetLottery,1
+timestamp dependency,11569,CrowdsaleTokenExt,1
+timestamp dependency,11640,CrowdsaleExt,1
+timestamp dependency,11642,CrowdsaleExt,1
+timestamp dependency,11684,CrowdsaleExt,1
+timestamp dependency,11685,CrowdsaleExt,1
+timestamp dependency,11711,Escrow,1
+timestamp dependency,11716,TimedCrowdsale,1
+timestamp dependency,11727,FreezableToken,1
+timestamp dependency,11751,TokenVesting,1
+timestamp dependency,11765,FreezableToken,1
+timestamp dependency,11766,FreezableToken,1
+timestamp dependency,11775,CrowdsaleBase,1
+timestamp dependency,11776,CrowdsaleBase,1
+timestamp dependency,11777,AllocatedCappedCrowdsale,1
+timestamp dependency,11778,LockToken,1
+timestamp dependency,11779,CrowdsaleBase,1
+timestamp dependency,11780,CrowdsaleBase,1
+timestamp dependency,11786,TokenVesting,1
+timestamp dependency,11798,CopaDelCrypto,1
+timestamp dependency,11804,TokenVesting,1
+unchecked external call,707,usingOraclize,1
+unchecked external call,20189,Withdrawals,1
+unchecked external call,22074,SIMPLE_PIGGY_BANK,1
+unchecked external call,22675,Withdrawable,1
+unchecked external call,31497,MultiplicatorX4,1
+unchecked external call,33447,OrganizeFunds,1
+unchecked external call,33464,Vault,1
+unchecked external call,33512,MultiplicatorX3,1
+unchecked external call,35078,minter,1
+unchecked external call,35421,DSBaseActor,1
+unchecked external call,35904,Withdrawals,1
+unchecked external call,35970,EnjinBuyer,1
+unchecked external call,36334,RequestSale,1
+unchecked external call,37707,BountyHunt,1
+unchecked external call,38528,OraclizeI,1
+unchecked external call,38810,OraclizeAddrResolverI,1
+unchecked external call,39060,usingOraclize,1
+unchecked external call,39147,usingOraclize,1
+unchecked external call,39183,usingOraclize,1
+unchecked external call,39268,TownCrier,1
+unchecked external call,40120,Withdrawals,1
+unchecked external call,40123,Withdrawals,1
+unchecked external call,40124,Withdrawals,1
+unchecked external call,40127,Withdrawals,1
+unchecked external call,40129,Withdrawals,1
+unchecked external call,40250,Withdrawals,1
+unchecked external call,40256,Withdrawals,1
+unchecked external call,40259,Withdrawals,1
+unchecked external call,40267,Withdrawals,1
+unchecked external call,40290,Withdrawals,1
+unchecked external call,40301,Withdrawals,1
+unchecked external call,40304,Withdrawals,1
+unchecked external call,40307,Withdrawals,1
+unchecked external call,40310,Withdrawals,1
+unchecked external call,40315,Withdrawals,1
+unchecked external call,40345,Withdrawals,1
+unchecked external call,40346,Withdrawals,1
+unchecked external call,40347,Withdrawals,1
+unchecked external call,40348,Withdrawals,1
+unchecked external call,40349,Withdrawals,1
+unchecked external call,40368,Withdrawals,1
+unchecked external call,40370,Withdrawals,1
+unchecked external call,40372,Withdrawals,1
+unchecked external call,40374,Withdrawals,1
+unchecked external call,40375,Withdrawals,1
+unchecked external call,40406,Dice,1
+unchecked external call,40407,Dice,1
+unchecked external call,40408,Dice,1
+unchecked external call,40432,Withdrawals,1
+unchecked external call,40435,Withdrawals,1
+unchecked external call,40437,Withdrawals,1
+unchecked external call,40452,Withdrawals,1
+unchecked external call,40454,Withdrawals,1
+unchecked external call,40458,Dice,1
+unchecked external call,40459,Dice,1
+unchecked external call,40460,Dice,1
+unchecked external call,40461,Dice,1
+unchecked external call,40462,Dice,1
+unchecked external call,40481,KissBTC,1
+unchecked external call,40500,MICRODAO,1
+unchecked external call,40511,Withdrawals,1
+unchecked external call,40513,Withdrawals,1
+unchecked external call,40521,Withdrawals,1
+unchecked external call,40524,Withdrawals,1
+unchecked external call,40527,Withdrawals,1
+unchecked external call,40623,Withdrawals,1
+unchecked external call,40634,Withdrawals,1
+unchecked external call,40640,Withdrawals,1
+unchecked external call,40654,Withdrawals,1
+unchecked external call,40655,Withdrawals,1
+unchecked external call,40733,Attack,1
+unchecked external call,43091,Withdrawals,1
+unchecked external call,43100,Withdrawals,1
+unchecked external call,43101,Withdrawals,1
+unchecked external call,43121,Withdrawals,1
+unchecked external call,43123,Withdrawals,1
+unchecked external call,43330,Withdrawals,1
+unchecked external call,43334,Withdrawals,1
+unchecked external call,43369,Withdrawals,1
+unchecked external call,43379,Withdrawals,1
+unchecked external call,43387,Withdrawals,1
+unchecked external call,43590,Withdrawals,1
+unchecked external call,43593,Withdrawals,1
+unchecked external call,43595,Withdrawals,1
+unchecked external call,43747,Withdrawals,1
+unchecked external call,43750,Withdrawals,1
+unchecked external call,43752,Withdrawals,1
+unchecked external call,43757,Withdrawals,1
+unchecked external call,43769,Withdrawals,1
+unchecked external call,44156,LoanTokenSettings,1
+unchecked external call,44340,Withdrawals,1
+unchecked external call,44341,Withdrawals,1
+unchecked external call,44342,Withdrawals,1
+unchecked external call,44343,Withdrawals,1
+unchecked external call,44344,Withdrawals,1
+unchecked external call,44432,HeadTail,1
+unchecked external call,44548,Withdrawals,1
+unchecked external call,44555,Withdrawals,1
+unchecked external call,44576,Withdrawals,1
+unchecked external call,44577,Withdrawals,1
+unchecked external call,44579,Withdrawals,1
+unchecked external call,44810,Withdrawals,1
+unchecked external call,44812,Withdrawals,1
+unchecked external call,44813,Withdrawals,1
+unchecked external call,44815,Withdrawals,1
+unchecked external call,44821,Withdrawals,1
+unchecked external call,44850,DAO,1
+unchecked external call,44994,BaseWallet,1
+unchecked external call,44998,Withdrawals,1
+unchecked external call,45000,Withdrawals,1
+unchecked external call,45011,Withdrawals,1
+unchecked external call,45013,Withdrawals,1
+unchecked external call,45020,Withdrawals,1
+unchecked external call,45030,FakeWallet,1
+unchecked external call,45052,KyberNetworkTest,1

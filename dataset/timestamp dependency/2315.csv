@@ -1,0 +1,7 @@
+Solidity-File;Contract-Name;Function-Name;SLOC;Avg-Assignment;Avg-blank-lines;Avg-commas;Avg-comments;Avg-comparisons;Avg-Identifiers-Length;Avg-conditionals;Avg-indentation-length;Avg-keywords;Avg-line-length;Avg-loops;Avg-number-of-identifiers;Avg-numbers;Avg-operators;Avg-parenthesis;Avg-periods;Avg-spaces;Max-Identifiers-Length;Max-indentation;Max-keywords;Max-line-length;Max-number-of-identifiers;Max-numbers;Max-char;Max-words
+2315.sol;ETHERlemon;();4;0,0;0,0;0,0;0,0;0,0;5,0;0,0;5,0;0,25;11,75;0,0;0,25;0,0;0,0;1,5;0,0;6,75;5;8;1;21;1;0;3;1
+2315.sol;ETHERlemon;canPay;4;0,0;0,0;0,0;0,0;0,0;4,0;0,0;5,0;0,25;37,25;0,0;0,5;1,5;0,25;2,0;0,75;18,75;5;8;1;80;2;6;7;1
+2315.sol;ETHERlemon;_onlyowner;5;0,0;0,0;0,0;0,0;0,4;4,0;0,2;5,6;0,0;14,8;0,0;0,4;0,0;0,0;0,8;0,2;6,4;5;8;0;32;2;0;5;1
+2315.sol;ETHERlemon;enter;25;0,04;0,04;0,0;0,0;0,16;5,9411764705882355;0,08;10,26086956521739;0,04;37,21739130434783;0,0;0,68;0,8;0,28;1,36;0,4;23,6;10;16;1;74;17;20;38;6
+2315.sol;ETHERlemon;ETHERlemon;4;0,25;0,0;0,0;0,0;0,0;4,0;0,0;5,0;0,25;15,75;0,0;0,5;0,0;0,0;1,0;0,25;6,0;5;8;1;27;2;0;5;1
+2315.sol;ETHERlemon;UpdatePay;4;0,0;0,0;0,0;0,0;0,0;5,333333333333333;0,0;5,0;0,25;31,5;0,0;0,75;0,0;0,0;1,5;0,75;16,5;10;8;1;79;3;0;7;1

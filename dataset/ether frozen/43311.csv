@@ -1,0 +1,6 @@
+Solidity-File;Contract-Name;Function-Name;SLOC;Avg-Assignment;Avg-blank-lines;Avg-commas;Avg-comments;Avg-comparisons;Avg-Identifiers-Length;Avg-conditionals;Avg-indentation-length;Avg-keywords;Avg-line-length;Avg-loops;Avg-number-of-identifiers;Avg-numbers;Avg-operators;Avg-parenthesis;Avg-periods;Avg-spaces;Max-Identifiers-Length;Max-indentation;Max-keywords;Max-line-length;Max-number-of-identifiers;Max-numbers;Max-char;Max-words
+43311.sol;Proxy;();3;0,0;0,0;0,0;0,0;0,0;9,0;0,0;5,333333333333333;0,6666666666666666;19,666666666666668;0,0;0,3333333333333333;0,0;0,0;2,0;0,0;6,666666666666667;9;8;2;34;1;0;5;1
+43311.sol;Proxy;_implementation;1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,0;2,0;63,0;0,0;0,0;0,0;0,0;4,0;0,0;9,0;0;4;2;63;0;0;7;0
+43311.sol;Proxy;_fallback;4;0,0;0,0;0,0;0,0;0,0;12,333333333333334;0,0;6,0;0,25;25,25;0,0;0,75;0,0;0,0;2,5;0,0;6,75;15;8;1;37;3;0;9;1
+43311.sol;Proxy;_willFallback;2;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,0;0,5;22,0;0,0;0,0;0,0;0,0;2,0;0,0;5,5;0;4;1;39;0;0;5;0
+43311.sol;Proxy;_delegate;20;0,05;0,15;0,55;0,0;0,0;10,692307692307692;0,0;9,6;0,05;38,5;0,0;0,65;0,5;0,0;1,0;0,0;9,5;14;12;1;82;13;10;30;3

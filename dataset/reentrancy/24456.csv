@@ -1,0 +1,6 @@
+Solidity-File;Contract-Name;Function-Name;SLOC;Avg-Assignment;Avg-blank-lines;Avg-commas;Avg-comments;Avg-comparisons;Avg-Identifiers-Length;Avg-conditionals;Avg-indentation-length;Avg-keywords;Avg-line-length;Avg-loops;Avg-number-of-identifiers;Avg-numbers;Avg-operators;Avg-parenthesis;Avg-periods;Avg-spaces;Max-Identifiers-Length;Max-indentation;Max-keywords;Max-line-length;Max-number-of-identifiers;Max-numbers;Max-char;Max-words
+24456.sol;ETH_VAULT;ETH_VAULT;5;0,2;0,0;0,0;0,0;0,0;6,0;0,0;4,8;0,2;17,8;0,0;0,6;0,0;0,0;1,2;0,0;5,8;11;8;1;36;3;0;5;1
+24456.sol;ETH_VAULT;Deposit;10;0,0;0,0;0,2;0,0;0,1;5,5;0,1;6,8;0,2;21,6;0,0;0,8;0,0;0,1;1,0;0,6;7,1;11;12;2;67;8;0;15;5
+24456.sol;ETH_VAULT;();1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;4,0;2,0;35,0;0,0;0,0;0,0;0,0;4,0;0,0;10,0;0;4;2;35;0;0;2;0
+24456.sol;ETH_VAULT;CashOut;14;0,0;0,0;0,14285714285714285;0,0;0,14285714285714285;4,636363636363637;0,14285714285714285;8,615384615384615;0,14285714285714285;22,53846153846154;0,0;0,7857142857142857;0,0;0,07142857142857142;1,2857142857142858;0,5;9,0;11;16;2;65;11;0;17;4
+24456.sol;Log;AddMessage;9;0,4444444444444444;0,0;0,2222222222222222;0,0;0,0;5,8;0,0;6,222222222222222;0,1111111111111111;24,77777777777778;0,0;1,1111111111111112;0,0;0,0;0,6666666666666666;0,5555555555555556;7,555555555555555;7;8;1;60;10;0;18;5

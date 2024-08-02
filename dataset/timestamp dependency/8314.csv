@@ -1,0 +1,7 @@
+Solidity-File;Contract-Name;Function-Name;SLOC;Avg-Assignment;Avg-blank-lines;Avg-commas;Avg-comments;Avg-comparisons;Avg-Identifiers-Length;Avg-conditionals;Avg-indentation-length;Avg-keywords;Avg-line-length;Avg-loops;Avg-number-of-identifiers;Avg-numbers;Avg-operators;Avg-parenthesis;Avg-periods;Avg-spaces;Max-Identifiers-Length;Max-indentation;Max-keywords;Max-line-length;Max-number-of-identifiers;Max-numbers;Max-char;Max-words
+8314.sol;TokenContract;transfer;1;0,0;0,0;1,0;0,0;0,0;0,0;0,0;2,0;1,0;81,0;0,0;0,0;0,0;0,0;4,0;0,0;9,0;0;2;1;81;0;0;8;0
+8314.sol;Vault;addMembers;10;0,3;0,0;0,1;0,0;0,4;5,352941176470588;0,0;4,2;0,1;33,6;0,1;1,7;0,4;0,2;1,4;0,7;6,8;9;6;1;78;17;4;41;4
+8314.sol;Vault;releaseTokens;10;0,2;0,0;0,2;0,0;0,2;4,954545454545454;0,0;3,8;0,1;33,6;0,1;2,2;0,2;0,2;2,4;0,7;5,8;12;6;1;67;22;2;32;4
+8314.sol;Ownable;transferOwnership;5;0,4;0,0;0,2;0,0;0,0;8,75;0,0;3,2;0,2;34,4;0,0;1,6;0,4;0,0;2,0;0,0;5,4;20;4;1;65;8;2;21;3
+8314.sol;TokenContract;balanceOf;1;0,0;0,0;0,0;0,0;0,0;0,0;0,0;2,0;2,0;70,0;0,0;0,0;0,0;0,0;4,0;0,0;8,0;0;2;2;70;0;0;7;0
+8314.sol;Ownable;onlyOwner;4;0,0;0,0;0,0;0,0;0,5;4,0;0,0;3,0;0,0;16,5;0,0;1,0;0,0;0,0;1,5;0,25;4,0;7;4;0;33;4;0;7;1

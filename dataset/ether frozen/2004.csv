@@ -1,0 +1,7 @@
+Solidity-File;Contract-Name;Function-Name;SLOC;Avg-Assignment;Avg-blank-lines;Avg-commas;Avg-comments;Avg-comparisons;Avg-Identifiers-Length;Avg-conditionals;Avg-indentation-length;Avg-keywords;Avg-line-length;Avg-loops;Avg-number-of-identifiers;Avg-numbers;Avg-operators;Avg-parenthesis;Avg-periods;Avg-spaces;Max-Identifiers-Length;Max-indentation;Max-keywords;Max-line-length;Max-number-of-identifiers;Max-numbers;Max-char;Max-words
+2004.sol;Proxy;();11;0,18181818181818182;0,0;0,8181818181818182;0,0;0,0;10,7;0,0;8,0;0,18181818181818182;27,727272727272727;0,0;0,9090909090909091;0,7272727272727273;0,0;1,8181818181818181;0,0;9,545454545454545;14;12;2;85;10;8;23;2
+2004.sol;CentralizedBugOracle;getOutcome;7;0,0;0,0;0,0;0,0;0,0;7,0;0,0;4,285714285714286;0,2857142857142857;13,0;0,0;0,14285714285714285;0,0;0,0;0,8571428571428571;0,0;4,714285714285714;7;6;2;23;1;0;7;1
+2004.sol;CentralizedBugOracleData;isOwner;5;0,0;0,0;0,0;0,0;0,4;4,0;0,0;4,0;0,0;17,25;0,0;0,8;0,0;0,0;1,2;0,2;5,6;7;6;0;35;4;0;7;1
+2004.sol;CentralizedBugOracle;_setOutcome;5;0,4;0,0;0,0;0,0;0,0;9,0;0,0;3,2;0,2;25,4;0,0;1,0;0,0;0,0;1,2;0,0;5,0;17;4;1;47;5;0;14;2
+2004.sol;CentralizedBugOracle;setOutcome;8;0,0;0,0;0,0;0,0;0,0;7,6;0,0;4,285714285714286;0,125;16,571428571428573;0,0;0,625;0,0;0,0;1,0;0,0;4,875;11;6;1;35;5;0;10;1
+2004.sol;CentralizedBugOracle;isOutcomeSet;7;0,0;0,0;0,0;0,0;0,0;5,0;0,0;4,285714285714286;0,2857142857142857;13,142857142857142;0,0;0,14285714285714285;0,0;0,0;0,8571428571428571;0,0;4,714285714285714;5;6;2;25;1;0;6;1
