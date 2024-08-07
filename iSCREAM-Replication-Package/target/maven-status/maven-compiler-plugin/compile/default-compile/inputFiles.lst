@@ -1,0 +1,17 @@
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/hu/sed/parser/antlr4/grammar/solidity/SolidityLexer.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/hu/sed/parser/antlr4/grammar/solidity/SolidityBaseListener.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/utility/LOCCompute.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/hu/sed/parser/antlr4/grammar/solidity/SolidityBaseVisitor.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/readability/numIfVisitor.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/readability/Total.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/readability/ContractVisitor2.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/readability/LetterFrequency.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/readability/identifierVisitor.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/readability/numberVisitor.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/utility/CalculatorMetrics.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/hu/sed/parser/antlr4/grammar/solidity/SolidityVisitor.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/readability/keywordVisitor.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/hu/sed/parser/antlr4/grammar/solidity/SolidityParser.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/readability/numCicliVisitor.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/hu/sed/parser/antlr4/grammar/solidity/SolidityListener.java
+/Users/albertsgs/Documents/Courses/CS854/Project/iSCREAM-Replication-Package/src/main/java/com/unisannio/readabilitygui/iSCREAM.java
