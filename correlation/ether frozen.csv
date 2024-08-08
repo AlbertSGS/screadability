@@ -1,0 +1,27 @@
+,ground truth
+Max-char,0.6411965921842707
+SLOC,0.6033645083296427
+Max-indentation,0.5601120336112039
+Max-numbers,0.5565550138009034
+Max-number-of-identifiers,0.5126322784957922
+Max-line-length,0.5118240119044376
+Avg-keywords,0.2872784417044042
+Max-keywords,0.24019223070763074
+Max-Identifiers-Length,0.15915318473417736
+Avg-numbers,0.011848663152707491
+Avg-parenthesis,-0.06474366318157987
+Avg-indentation-length,-0.1145870110451414
+Avg-Assignment,-0.13202754216306453
+Avg-Identifiers-Length,-0.1324448365810918
+Avg-spaces,-0.15596856987366034
+Avg-conditionals,-0.16666666666666666
+Avg-blank-lines,-0.1873618873340579
+Avg-comparisons,-0.22319681530872928
+Avg-number-of-identifiers,-0.22849530701328302
+Max-words,-0.2401922307076307
+Avg-commas,-0.25587166220277774
+Avg-periods,-0.31830007059966586
+Avg-line-length,-0.47372118421975107
+Avg-comments,
+Avg-loops,
+Avg-operators,
